@@ -22,8 +22,10 @@ const Projects = () => {
               alt="..."
             />
             <div className="card-body">
-              <h5 className="card-title">Examination</h5>
-              <p className="card-text">
+              <h5 className="card-title text-white fw-bold">
+                Examination System
+              </h5>
+              <p className="card-text text-white">
                 Desktop application built in Java for Examination System using
                 MySQL database for efficient management of exams and results.
               </p>
@@ -37,8 +39,8 @@ const Projects = () => {
           >
             <img src="./assets/images/project3.gif" className="card-img-top" />
             <div className="card-body">
-              <h5 className="card-title">WebLock</h5>
-              <p className="card-text">
+              <h5 className="card-title text-white fw-bold">WebLock</h5>
+              <p className="card-text text-white">
                 Java-based file encryption project ensuring secure data storage
                 by encrypting and decrypting files using a key.
               </p>
@@ -56,8 +58,8 @@ const Projects = () => {
               alt="..."
             />
             <div className="card-body">
-              <h5 className="card-title">Portfolio</h5>
-              <p className="card-text">
+              <h5 className="card-title text-white fw-bold">Portfolio</h5>
+              <p className="card-text text-white">
                 Building a portfolio website using Bootstrap to showcase skills,
                 projects, and experiences for a professional online presence.
               </p>

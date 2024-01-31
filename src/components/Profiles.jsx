@@ -29,7 +29,7 @@ const Profiles = () => {
               </a>
               <div className="card-body">
                 <div className="card-title text-center fw-bold">
-                  <h4 className="fs-md-4 fs-6">LinkedIn</h4>
+                  <h4 className="fs-md-4 fs-6 text-white">LinkedIn</h4>
                 </div>
               </div>
             </div>
@@ -48,7 +48,7 @@ const Profiles = () => {
               </a>
               <div className="card-body">
                 <div className="card-title text-center fw-bold">
-                  <h4 className="fs-md-4 fs-6">Github</h4>
+                  <h4 className="fs-md-4 fs-6 text-white">Github</h4>
                 </div>
               </div>
             </div>
@@ -70,7 +70,7 @@ const Profiles = () => {
               </a>
               <div className="card-body">
                 <div className="card-title text-center fw-bold">
-                  <h4 className="fs-md-4 fs-6">HackerRank</h4>
+                  <h4 className="fs-md-4 fs-6 text-white">HackerRank</h4>
                 </div>
               </div>
             </div>
@@ -92,7 +92,10 @@ const Profiles = () => {
               </a>
               <div className="card-body">
                 <div className="card-title text-center fw-bold">
-                  <h4 className="fs-md-4 fs-6" style={{ whiteSpace: "nowrap" }}>
+                  <h4
+                    className="fs-md-4 fs-6 text-white"
+                    style={{ whiteSpace: "nowrap" }}
+                  >
                     GeeksForGeeks
                   </h4>
                 </div>
@@ -113,7 +116,7 @@ const Profiles = () => {
               </a>
               <div className="card-body">
                 <div className="card-title text-center fw-bold">
-                  <h4 className="fs-md-4 fs-6">LeetCode</h4>
+                  <h4 className="fs-md-4 fs-6 text-white">LeetCode</h4>
                 </div>
               </div>
             </div>
@@ -128,7 +131,7 @@ const Profiles = () => {
               </a>
               <div className="card-body">
                 <div className="card-title text-center fw-bold">
-                  <h4 className="fs-md-4 fs-6">Instagram</h4>
+                  <h4 className="fs-md-4 fs-6 text-white">Instagram</h4>
                 </div>
               </div>
             </div>
