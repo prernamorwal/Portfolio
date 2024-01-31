@@ -29,7 +29,7 @@ const Home = () => {
             alt="..."
           />
         </div>
-        {/* row end */}
+        {/* this is the end of row */}
       </div>
     </div>
   );
