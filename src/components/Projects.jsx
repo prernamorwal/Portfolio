@@ -20,6 +20,7 @@ const Projects = () => {
               src="./assets/images/project1.jpg"
               className="card-img-top"
               alt="..."
+              style={{ height: "230px" }}
             />
             <div className="card-body">
               <h5 className="card-title text-white fw-bold">
@@ -37,12 +38,18 @@ const Projects = () => {
             className="card mx-auto d-flex justify-content-center bg-dark h-100"
             style={{ borderRadius: "25px" }}
           >
-            <img src="./assets/images/project3.gif" className="card-img-top" />
+            <img
+              src="./assets/images/project3.png"
+              style={{ height: "230px" }}
+              className="card-img-top"
+            />
             <div className="card-body">
-              <h5 className="card-title text-white fw-bold">WebLock</h5>
+              <h5 className="card-title text-white fw-bold">
+                Task Management System
+              </h5>
               <p className="card-text text-white">
-                Java-based file encryption project ensuring secure data storage
-                by encrypting and decrypting files using a key.
+                A robust React-based platform for efficient task allocation,
+                tracking, and management for users and administrators.
               </p>
             </div>
           </div>
@@ -56,6 +63,7 @@ const Projects = () => {
               src="./assets/images/Portfolio (2).png "
               className="card-img-top logs"
               alt="..."
+              style={{ height: "230px" }}
             />
             <div className="card-body">
               <h5 className="card-title text-white fw-bold">Portfolio</h5>
